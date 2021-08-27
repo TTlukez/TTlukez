@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TTlukez
+- 👀 I’m interested in Python programing
